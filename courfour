@@ -44,41 +44,47 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> a word that represents something else, reference stored value </td>
+          <td> in a dictionary words are variables for their definitions </td>
+          <td> color= input("Choose a color.") pencolor(color) </td>
           <td>  </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> repeating and action </td>
+          <td> running laps around a track </td>
+          <td> while t < n:
+    pendown()
+    speed(10)
+    right(360/n)
+    forward(50)
+    t+=1 </td>
           <td>  </td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
         <tr>
           <td><b>Conditionals</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> if then statements </td>
+          <td> If you have a ticket you can see the movie </td>
+          <td> if t > n:
+    penup() </td>
           <td>  </td>
         </tr>
 
         <!-- Fill in the row for Functions -->
         <tr>
           <td><b>Functions</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> the function of something equals something else </td>
+          <td> an equation f(x)=y </td>
+          <td>def printme( str ):
+   "This prints a passed string into this function"
+   print str
+   return </td>
           <td>  </td>
         </tr>
 
       </table>
     </div>
-    
-  </body>
-</html>
