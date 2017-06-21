@@ -47,7 +47,7 @@
           <td> a word that represents something else, reference stored value </td>
           <td> in a dictionary words are variables for their definitions </td>
           <td> color= input("Choose a color.") pencolor(color) </td>
-          <td>  </td>
+          <td><img src="variable.PNG">  </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
@@ -61,7 +61,7 @@
     right(360/n)
     forward(50)
     t+=1 </td>
-          <td>  </td>
+          <td> <img src="loop.PNG"> </td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
@@ -71,7 +71,7 @@
           <td> If you have a ticket you can see the movie </td>
           <td> if t > n:
     penup() </td>
-          <td>  </td>
+          <td> <img src="conditional.PNG"> </td>
         </tr>
 
         <!-- Fill in the row for Functions -->
@@ -83,11 +83,11 @@
    "This prints a passed string into this function"
    print str
    return </td>
-          <td>  </td>
+          <td><img src="function.PNG">  </td>
         </tr>
 
       </table>
     </div>
-    
+
   </body>
 </html>
