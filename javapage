@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+</head>
+<body style="background-color: #ffe6e6;">
+
+<h1><font size="25" color="cornflowerblue" face="courier"><center><br>Lauren Leatham</center></font></h1>
+<table style="width:100%">
+  <tr>
+    <th><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/14947889_354585468212698_4204014815707121774_n.jpg?oh=21a73895db18701354e830a56faa3568&oe=59DCF8DC" alt="picture of me" style= "width:280px;height:300px;"></th>
+    <th><p>I've lived in California my whole life. I attend Phillips Exeter Academy and I am currently a Junior. I enjoy going to the beach, writing, rowing, and spending time with friends. I have two pet cats a dog and two older sibilings. </p></th> 
+    
+    
+  </tr>
+  <tr>
+  	<th></th><th><b><font size="5">Projects</font></b></th>		<th></th>
+  </tr>
+  
+  <tr><!--this is a row of pictures-->
+  	<th><a href="https://scratch.mit.edu/projects/166225366/">		<img src="http://i66.tinypic.com/fu9yci.png" alt="picture of game" style="width:200px;height:170px;" ></a></th>
+    <th><img src="https://lleatham.github.io/portfolio/download.jpg" style="width:200px;height:170px;"></th>
+    <th><img src="https://raw.githubusercontent.com/lleatham/portfolio/gh-pages/Image.jpg"style="width:200px;height:170px;"></th>
+
+  </tr><!--end of picture row-->
+  <tr><!--start of expl. row-->
+      <th><p>This project is called "Stay Woke". It is a side scrolling game.</p></th>
+    <th><p>This is a curcuit that I made. I was difficult at first to learn where to place the wires, but my group soon figured it out.</p></th>
+    <th><p>This is the robot I am working on. It can make sounds and plays a pattern of lights</p> </th>
+  </tr>
+  
+</table>
+
+
+
+</body>
+</html>
